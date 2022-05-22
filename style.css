@@ -1,5 +1,7 @@
 body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana;font-size:18px}
+h1{color:grey;font-family:verdana;font-size:18px;.center}
+.center {
+  text-align: center;
 .maindiv {
     background-color:white;
     color:black;
@@ -7,5 +9,6 @@ h1{color:grey;font-family:verdana;font-size:18px}
     padding:20px;
     border-radius:25px;
 }
+
 
 
